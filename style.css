@@ -1,0 +1,45 @@
+* {
+  padding: none;
+  margin: none;
+}
+
+a {
+  font-size: 15px;
+  color: rgb(204, 7, 7);
+}
+.Opisanie_1 {
+  width: 300px;
+  color: rgb(10, 141, 32);
+}
+.Opisanie_1 p{
+font-size: 16px;
+color: rgb(15, 14, 14);
+}
+.Opis{
+    color:red;
+}
+
+h1 {
+  font-size: 16px;
+  color: rgb(255, 0, 0);
+}
+.Opis {
+ font-size: 16px};
+
+li{
+    font-size: 16px;
+}
+ul li{
+    font-size: 16px;
+};
+.spisk_1{
+    width: 100px;
+}
+ol li{
+    font-size: 14px;
+    width: 400px;
+}
+.Footer{
+    display: flex;
+    justify-content: space-between;
+}
